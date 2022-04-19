@@ -1,2 +1,2 @@
-# mall-max
+# mall-mix
 商城uniapp模板，橘色界面，uni组件
